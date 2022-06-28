@@ -2,4 +2,4 @@
 
 ---
 
-<h2 align="center">Programmer, Student, Gamer</h2>
+<h2 align="center">Developer, Student, Gamer</h2>
