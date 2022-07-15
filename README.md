@@ -8,7 +8,7 @@
 
 <h4> Hello, I'm currently a 17 years old IT student who's interested in: </h4>
 
-- Frontend development
+- FrontEnd development
 - Game development
 - Graphic design/Drawing
 
