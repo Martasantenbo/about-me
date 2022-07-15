@@ -12,5 +12,4 @@
 - Game development
 - Graphic design/Drawing
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martasantenbo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martasantenbo&layout=compact)](https://github.com/Martasantenbo/github-readme-stats)
