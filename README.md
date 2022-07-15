@@ -6,7 +6,7 @@
 
 ---
 
-- Hello, I'm currently a 17 years old student who's interested in 
+- Hello, I'm currently a 17 years old IT student who's interested in 
 - Frontend development
 - Game development
 - Graphic design/Drawing
